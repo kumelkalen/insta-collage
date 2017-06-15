@@ -2,3 +2,16 @@
 	margin: 0 auto;
 	padding: 0;
 }
+
+#bienvenida{
+	background: #cc5200; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(45deg , #cc5200 , #40bf80);
+    height: 500px;
+    
+}
+
+#bienvenida img {
+	-webkit-filter: invert(100%);
+	width: 100%;
+	
+}
