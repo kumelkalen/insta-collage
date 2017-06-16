@@ -50,10 +50,19 @@ a:hover{
 	opacity: 0.2;
 }
 
-.fa-facebook-square{
-	width:40px;
-}
 
 form{
 	margin-bottom: 15px;
+}
+
+.face{
+	margin-bottom: 100px;
+}
+
+.cont-footer{
+	background-color: rgba(192,192,192,0.2);
+	height: 50px;
+	display: flex;
+	align-items: center;
+	border-top:1px solid white;
 }
