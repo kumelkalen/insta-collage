@@ -19,7 +19,17 @@
 	background: none;
 }
 
+.btn:hover{
 
+}
+
+.white{
+	color:white;
+}
+.white a{
+	color:white;
+	font-weight: bold;
+}
 
 #bienvenida img {
 	-webkit-filter: invert(100%);
